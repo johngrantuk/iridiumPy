@@ -1,2 +1,2 @@
 # iridiumPy
-This library uses the RockBLOCK/Iridium’s SBD (“Short Burst Data”) protocol to send and receive short messages to/from a RockBLOCK device from Rock7. 
+I wrote this library to provide the core functionality to send and receive short messages to/from a RockBLOCK device from Rock7 useing the RockBLOCK/Iridium’s SBD (“Short Burst Data”) protocol. The RockBLOCK allows you to send and receive short messages from anywhere on Earth with a clear view of the sky via the Iridium satellite network. It works far beyond the reach of WiFi and GSM networks. We use it at Scot Sat as a back up communication method into our stabilised antennas allowing us to query the status or control them when other communication methods are down. It's a cool little device.
